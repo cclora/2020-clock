@@ -10,6 +10,7 @@ function App(props) {
     <h1>exemplo dea acesso a açpi exgrdboi</h1>
     <ComputerClock />
     <WorldClock />
+    <WorldClock  local="Europe/London"/>
   </div>);
 }
 // function App() {
